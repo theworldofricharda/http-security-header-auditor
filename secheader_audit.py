@@ -1,5 +1,5 @@
 """
-secheader_audit.py — Richard Akinfadeyi, 2026
+secheader_audit.py — Akintomide R F aka Syntaxfoxx, 2026
 
 Audit a live URL's HTTP response headers and grade its security posture A-F.
 
